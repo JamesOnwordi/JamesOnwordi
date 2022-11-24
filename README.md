@@ -1,6 +1,6 @@
 ### Hi there 👋
- -I am James
---I enjoy solving technical problems, and love the feeling when I arrive at a solution.
+## I am James
+# I enjoy solving technical problems, and love the feeling when I arrive at a solution.
 - 📫 How to reach me: https://www.linkedin.com/in/james-onwordi/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hmm... Not yet sure
