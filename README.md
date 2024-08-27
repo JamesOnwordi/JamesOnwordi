@@ -1,8 +1,6 @@
 # Hi there, I'm James 👋
 
----
-
-### 👤 **About Me**
+## 👤 **About Me**
 I am a passionate software developer with a strong foundation in various languages, frameworks, and methodologies. I love building innovative solutions and continuously expanding my skills.
 
 ![GitHub followers](https://img.shields.io/github/followers/JamesOnwordi?label=Follow&style=social)
@@ -38,9 +36,9 @@ I am a passionate software developer with a strong foundation in various languag
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ## 🔧 Favorite Projects
-🎮 **[Creatube](https://creatube-jamesonwordi.koyeb.app):** A comprehensive platform for displaying weapon stats, skins, and videos for the popular first-person shooter game Valorant.
+🎮 **[Creatube](https://creatube-jamesonwordi.koyeb.app):** A Valorant skin displayer that allows users to view and manage their favorite skins.
 
-🧠 **[Memories](https://astounding-cobbler-d8830e.netlify.app/):** A versatile application for preserving and organizing photos and journals of significant life events.
+🧠 **[Memories](https://astounding-cobbler-d8830e.netlify.app/):** A web application for preserving and organizing photos and journals of significant life events.
 
 🎲 **[3D Ludo](https://willowy-bublanina-430b9e.netlify.app):** An innovative three-dimensional board game built with React and React Three Fiber.
 
